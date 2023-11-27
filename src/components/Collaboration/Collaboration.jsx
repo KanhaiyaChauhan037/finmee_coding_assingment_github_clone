@@ -4,7 +4,17 @@ import Discount from "./Discount";
 import HoverCard from "../Productivity/HoverCard";
 import { motion } from "framer-motion";
 
+
+
 const Collaboration = () => {
+  // const [hovered, setHovered] = useState(true);
+  // const [hovered1, setHovered1] = useState(false);
+  // const [hovered2, setHovered2] = useState(false);
+
+
+
+
+
   const [hovered, setHovered] = useState(false);
   const [hovered1, setHovered1] = useState(false);
   const [hovered2, setHovered2] = useState(false);
